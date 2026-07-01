@@ -1,0 +1,100 @@
+canonical_identifier: bkk:krp/KR6c0096/X/v1
+canonical_location: https://kanripo.org/bkk/KR6c0096/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經闡說
+  identifiers:
+    krp: KR6c0096
+    cbeta: X25n0508
+    cbeta_old_id: X25n0508
+    authorityid: CA0001707
+    json_key: X0508
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0508.xml
+    old_id: X25n0508
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0096_000-X.yaml, hash: 'sha256:c073339f3c23cf7f92d8346851a09bd3bc899ddf7a02a3bf4462c34c7877b73d'}
+  - {seq: 1, filename: KR6c0096_001-X.yaml, hash: 'sha256:e70bb271e41d261fb7728ed3910c47e066e4d8dfece21457ec23af7c5f24d653'}
+  - {seq: 2, filename: KR6c0096_002-X.yaml, hash: 'sha256:77f29c37aa004b1c5506e0fae4aac436a3f8ad20a7a9477f1164d5a1bcea177c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0096_000-X.markers.yaml, hash: 'sha256:f72ac123b821202ce848580bc355ddc06a5f97887745672451fb57ea0b0679d9'}
+  - {seq: 1, role: markers, filename: assets/KR6c0096_001-X.markers.yaml, hash: 'sha256:12e0a8bd3ab535d218a43d4f5d1ea6334498b611d092050ac0f2dd05b68f0de8'}
+  - {seq: 2, role: markers, filename: assets/KR6c0096_002-X.markers.yaml, hash: 'sha256:f84857b834b58d19915d2b9145b5f50f3ede6c57260adc91b09cd9713708985c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0096_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 508-A 金剛經闡說序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0096_X_000-mulu-2
+    span:
+    - front
+    - 329
+    - 329
+  label: No. 508-B 捐刊金剛經闡說序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0096_X_000-mulu-3
+    span:
+    - front
+    - 757
+    - 757
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0096_X_000-mulu-4
+    span:
+    - front
+    - 928
+    - 928
+  label: 金剛經闡說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0096_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6124
+  label: 金剛般若波羅蜜經
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0096_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 3902
+  label: 金剛經闡說卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0096_X_002-mulu-1
+    span:
+    - body
+    - 3450
+    - 3450
+  label: No. 508-C 復題金剛經闡說後序
+  type: mulu
+  level: 1
+hash: sha256:a709722d976e8aeff4ddd31418849bcb74d1e4fbcec79e7b2a7d1d2d94a70812
