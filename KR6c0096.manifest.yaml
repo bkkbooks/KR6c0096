@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6c0096/v1
 canonical_location: https://kanripo.org/bkk/KR6c0096/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛經闡說
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0096_000.yaml, hash: 'sha256:c073339f3c23cf7f92d8346851a09bd3bc899ddf7a02a3bf4462c34c7877b73d'}
-  - {seq: 1, filename: KR6c0096_001.yaml, hash: 'sha256:e70bb271e41d261fb7728ed3910c47e066e4d8dfece21457ec23af7c5f24d653'}
-  - {seq: 2, filename: KR6c0096_002.yaml, hash: 'sha256:77f29c37aa004b1c5506e0fae4aac436a3f8ad20a7a9477f1164d5a1bcea177c'}
+  - {seq: 0, filename: KR6c0096_000.yaml, hash: 'sha256:ff92708bd67900a09c983d854bf524404023e970bf3836e2ab6b1cfd8f272d0b'}
+  - {seq: 1, filename: KR6c0096_001.yaml, hash: 'sha256:f080905bab1f8e81db4ddef0b974fc412ead564c715291583196970ed94c08a2'}
+  - {seq: 2, filename: KR6c0096_002.yaml, hash: 'sha256:c3f7d07626b9682b76e06ba4d4ca701d827801c533e7fda4c2ec11de2a4150d8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0096_000.markers.yaml, hash: 'sha256:a79326d0e54229d8b2fa88370ffe2b11809600c21a1b24eb313915187f2715bc'}
-  - {seq: 1, role: markers, filename: assets/KR6c0096_001.markers.yaml, hash: 'sha256:99eb2a5635ca251e536d06bbcc3674b442a84b4e9aea67cf8040e834037fb3ea'}
-  - {seq: 2, role: markers, filename: assets/KR6c0096_002.markers.yaml, hash: 'sha256:68cad9fda226f2607f4f2d9aef78727dd85b2a4df80a9d0d98c4a9a030164993'}
+  - {seq: 0, role: markers, filename: assets/KR6c0096_000.markers.yaml, hash: 'sha256:a348fcd02e3f6f254ea8a61b1057b7694a35477a2e17ae8eb9a62efa18502fd9'}
+  - {seq: 1, role: markers, filename: assets/KR6c0096_001.markers.yaml, hash: 'sha256:40eb9e312bdb8bc2dc60236e841fb7c74355b433a60d0e49222c0a764dca448c'}
+  - {seq: 2, role: markers, filename: assets/KR6c0096_002.markers.yaml, hash: 'sha256:83f0ef052eb3ff9729dbd07ad7ab0c3f3104e23592eeb0f74df90a3f52aa2948'}
 table_of_contents:
 - ref:
     seq: 0
@@ -99,4 +99,7 @@ table_of_contents:
   label: No. 508-C 復題金剛經闡說後序
   type: mulu
   level: 1
-hash: sha256:d5ee1971ca164dd0be81c30ab9b2506a5bb963c12c42342b822a67015b15623f
+hash: sha256:e2daed94d39e27b905d7896015b6d06bf99c9a90afdb2ade07a91c7f6c463ee1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
