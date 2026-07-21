@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0096_000-X.yaml, hash: 'sha256:c073339f3c23cf7f92d8346851a09bd3bc899ddf7a02a3bf4462c34c7877b73d'}
+  - {seq: 0, filename: KR6c0096_000-X.yaml, hash: 'sha256:0d4f5b0de0c0f1aa94bc9d18f71ca1fbf64336388677a4b32ef974d25183d21b'}
   - {seq: 1, filename: KR6c0096_001-X.yaml, hash: 'sha256:e70bb271e41d261fb7728ed3910c47e066e4d8dfece21457ec23af7c5f24d653'}
   - {seq: 2, filename: KR6c0096_002-X.yaml, hash: 'sha256:77f29c37aa004b1c5506e0fae4aac436a3f8ad20a7a9477f1164d5a1bcea177c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0096_000-X.markers.yaml, hash: 'sha256:f72ac123b821202ce848580bc355ddc06a5f97887745672451fb57ea0b0679d9'}
+  - {seq: 0, role: markers, filename: assets/KR6c0096_000-X.markers.yaml, hash: 'sha256:124319979de2ace20bb039056ad3374404aa75741b4a132a8ac7cd5710a84dff'}
   - {seq: 1, role: markers, filename: assets/KR6c0096_001-X.markers.yaml, hash: 'sha256:12e0a8bd3ab535d218a43d4f5d1ea6334498b611d092050ac0f2dd05b68f0de8'}
   - {seq: 2, role: markers, filename: assets/KR6c0096_002-X.markers.yaml, hash: 'sha256:f84857b834b58d19915d2b9145b5f50f3ede6c57260adc91b09cd9713708985c'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0096_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 508-A 金剛經闡說序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0096_X_000-mulu-2
     span:
-    - front
+    - body
     - 329
     - 329
   label: No. 508-B 捐刊金剛經闡說序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0096_X_000-mulu-3
     span:
-    - front
+    - body
     - 757
     - 757
   label: 凡例
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0096_X_000-mulu-4
     span:
-    - front
+    - body
     - 928
     - 928
   label: 金剛經闡說
@@ -97,4 +97,4 @@ table_of_contents:
   label: No. 508-C 復題金剛經闡說後序
   type: mulu
   level: 1
-hash: sha256:a709722d976e8aeff4ddd31418849bcb74d1e4fbcec79e7b2a7d1d2d94a70812
+hash: sha256:2f026a52d429f5e39542638f64815cb10d53e77c149364febef53e691b1e776b
